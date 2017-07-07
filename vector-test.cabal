@@ -21,7 +21,6 @@ library
   -- other-extensions:    
   build-depends:
       base >=4.8 && <4.10
-    , natural-test
     , QuickCheck
     , smallcheck
     , vector
